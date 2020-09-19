@@ -1,0 +1,2 @@
+# cli for simple mailing
+
