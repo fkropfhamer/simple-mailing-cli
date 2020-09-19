@@ -1,0 +1,23 @@
+{
+  "name": "simple-mailing-cli",
+  "version": "0.0.0",
+  "description": "cli for simple-mailing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkropfhamer/simple-mailing-cli.git"
+  },
+  "keywords": [
+    "mailing",
+    "cli"
+  ],
+  "author": "fkropfhamer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fkropfhamer/simple-mailing-cli/issues"
+  },
+  "homepage": "https://github.com/fkropfhamer/simple-mailing-cli#readme"
+}
