@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fkropfhamer/simple-mailing-cli/issues"
   },
-  "homepage": "https://github.com/fkropfhamer/simple-mailing-cli#readme"
+  "homepage": "https://github.com/fkropfhamer/simple-mailing-cli#readme",
+  "dependencies": {
+    "cli-progress": "^3.8.2"
+  }
 }
