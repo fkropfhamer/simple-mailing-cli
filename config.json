@@ -1,0 +1,8 @@
+{
+	"smtp": "",
+	"email": "",
+	"password": "",
+	"port": 587,
+	"sender": "",
+	"testReceiver": ""
+}
