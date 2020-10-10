@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/fkropfhamer/simple-mailing-cli#readme",
   "dependencies": {
-    "cli-progress": "^3.8.2"
+    "cli-progress": "^3.8.2",
+    "minimist": "^1.2.5"
   }
 }
